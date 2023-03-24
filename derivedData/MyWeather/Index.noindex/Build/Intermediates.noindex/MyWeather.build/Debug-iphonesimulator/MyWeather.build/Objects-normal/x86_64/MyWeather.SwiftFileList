@@ -1,6 +1,13 @@
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/WeatherStats.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/RainStatus.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Network/NetworkManager.swift
-/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Network/Service/UserService.swift
-/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/User.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/WeatherInfo.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Stories/ViewController.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Supporting\ Files/AppDelegate.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Supporting\ Files/SceneDelegate.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/CloudsStatus.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/WindStatus.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Network/Service/WeatherService.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Supporting\ Files/AppConstants.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/WeatherType.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/Coordinates.swift

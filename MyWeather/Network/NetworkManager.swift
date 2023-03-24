@@ -6,6 +6,7 @@ protocol NetworkProtocol {
 
 enum NetworkError: Error {
     case invalidURL
+    case invalidURLComponent
     case invalidResponse
     case noData
 }
