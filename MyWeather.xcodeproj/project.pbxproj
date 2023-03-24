@@ -56,15 +56,87 @@
 		F2A3C10C29CD5B1800721162 /* MyWeather */ = {
 			isa = PBXGroup;
 			children = (
-				F2A3C10D29CD5B1800721162 /* AppDelegate.swift */,
-				F2A3C10F29CD5B1800721162 /* SceneDelegate.swift */,
-				F2A3C11129CD5B1800721162 /* ViewController.swift */,
-				F2A3C11329CD5B1800721162 /* Main.storyboard */,
-				F2A3C11629CD5B1A00721162 /* Assets.xcassets */,
-				F2A3C11829CD5B1A00721162 /* LaunchScreen.storyboard */,
-				F2A3C11B29CD5B1A00721162 /* Info.plist */,
+				F2A3C12929CD602200721162 /* Stories */,
+				F2A3C12729CD5FE000721162 /* Resources */,
+				F2A3C12629CD5FC000721162 /* Test */,
+				F2A3C12529CD5FB900721162 /* Helper */,
+				F2A3C12429CD5FB200721162 /* Service */,
+				F2A3C12329CD5FAB00721162 /* ViewModel */,
+				F2A3C12229CD5FA400721162 /* View */,
+				F2A3C12129CD5F9B00721162 /* Model */,
+				F2A3C12829CD5FF100721162 /* Supporting Files */,
 			);
 			path = MyWeather;
+			sourceTree = "<group>";
+		};
+		F2A3C12129CD5F9B00721162 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F2A3C12229CD5FA400721162 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F2A3C12329CD5FAB00721162 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		F2A3C12429CD5FB200721162 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		F2A3C12529CD5FB900721162 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		F2A3C12629CD5FC000721162 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		F2A3C12729CD5FE000721162 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F2A3C11629CD5B1A00721162 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F2A3C12829CD5FF100721162 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F2A3C10D29CD5B1800721162 /* AppDelegate.swift */,
+				F2A3C10F29CD5B1800721162 /* SceneDelegate.swift */,
+				F2A3C11B29CD5B1A00721162 /* Info.plist */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F2A3C12929CD602200721162 /* Stories */ = {
+			isa = PBXGroup;
+			children = (
+				F2A3C11329CD5B1800721162 /* Main.storyboard */,
+				F2A3C11829CD5B1A00721162 /* LaunchScreen.storyboard */,
+				F2A3C11129CD5B1800721162 /* ViewController.swift */,
+			);
+			path = Stories;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
