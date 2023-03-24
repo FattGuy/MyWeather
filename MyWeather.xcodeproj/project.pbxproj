@@ -13,6 +13,9 @@
 		F2A3C11529CD5B1800721162 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2A3C11329CD5B1800721162 /* Main.storyboard */; };
 		F2A3C11729CD5B1A00721162 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2A3C11629CD5B1A00721162 /* Assets.xcassets */; };
 		F2A3C11A29CD5B1A00721162 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2A3C11829CD5B1A00721162 /* LaunchScreen.storyboard */; };
+		F2A3C12C29CD648300721162 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A3C12B29CD648300721162 /* NetworkManager.swift */; };
+		F2A3C12E29CD65EE00721162 /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A3C12D29CD65EE00721162 /* UserService.swift */; };
+		F2A3C13029CD664C00721162 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A3C12F29CD664C00721162 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		F2A3C11629CD5B1A00721162 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2A3C11929CD5B1A00721162 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2A3C11B29CD5B1A00721162 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2A3C12B29CD648300721162 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		F2A3C12D29CD65EE00721162 /* UserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
+		F2A3C12F29CD664C00721162 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,11 +62,11 @@
 		F2A3C10C29CD5B1800721162 /* MyWeather */ = {
 			isa = PBXGroup;
 			children = (
+				F2A3C12A29CD643700721162 /* Network */,
 				F2A3C12929CD602200721162 /* Stories */,
 				F2A3C12729CD5FE000721162 /* Resources */,
 				F2A3C12629CD5FC000721162 /* Test */,
 				F2A3C12529CD5FB900721162 /* Helper */,
-				F2A3C12429CD5FB200721162 /* Service */,
 				F2A3C12329CD5FAB00721162 /* ViewModel */,
 				F2A3C12229CD5FA400721162 /* View */,
 				F2A3C12129CD5F9B00721162 /* Model */,
@@ -72,6 +78,7 @@
 		F2A3C12129CD5F9B00721162 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				F2A3C12F29CD664C00721162 /* User.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -93,6 +100,7 @@
 		F2A3C12429CD5FB200721162 /* Service */ = {
 			isa = PBXGroup;
 			children = (
+				F2A3C12D29CD65EE00721162 /* UserService.swift */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -137,6 +145,15 @@
 				F2A3C11129CD5B1800721162 /* ViewController.swift */,
 			);
 			path = Stories;
+			sourceTree = "<group>";
+		};
+		F2A3C12A29CD643700721162 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				F2A3C12429CD5FB200721162 /* Service */,
+				F2A3C12B29CD648300721162 /* NetworkManager.swift */,
+			);
+			path = Network;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -210,6 +227,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2A3C12C29CD648300721162 /* NetworkManager.swift in Sources */,
+				F2A3C12E29CD65EE00721162 /* UserService.swift in Sources */,
+				F2A3C13029CD664C00721162 /* User.swift in Sources */,
 				F2A3C11229CD5B1800721162 /* ViewController.swift in Sources */,
 				F2A3C10E29CD5B1800721162 /* AppDelegate.swift in Sources */,
 				F2A3C11029CD5B1800721162 /* SceneDelegate.swift in Sources */,
@@ -359,8 +379,9 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KL58X3P954;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MyWeather/Info.plist;
+				INFOPLIST_FILE = "MyWeather/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -386,8 +407,9 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KL58X3P954;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MyWeather/Info.plist;
+				INFOPLIST_FILE = "MyWeather/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
