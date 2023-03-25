@@ -57,7 +57,7 @@ final class WeatherServiceTest: XCTestCase {
                     "all": 100
                 }
             }
-            """.replacingOccurrences(of: "\n", with: "").replacingOccurrences(of: "\\", with: "")
+            """
         guard let jsonData = jsonString.data(using: .utf8) else {
             XCTFail("Failed to convert JSON string to Data")
             return

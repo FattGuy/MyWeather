@@ -1,8 +1,8 @@
 struct WeatherInfo: Codable {
-    var coord: [Coordinates]
+    var coord: Coordinates
     var weather: [WeatherType]
     var base: String
-    var main: [WeatherStats]
+    var main: WeatherStats
     var visibility: Int
     var wind: WindStatus
     var rain: RainStatus
