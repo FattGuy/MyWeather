@@ -5,6 +5,7 @@
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Stories/ViewController.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Supporting\ Files/AppDelegate.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Supporting\ Files/SceneDelegate.swift
+/Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Network/Mock/MockURLProtocol.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/CloudsStatus.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Model/WindStatus.swift
 /Users/fengchang/Documents/GitHub/MyWeather/MyWeather/Network/Service/WeatherService.swift
