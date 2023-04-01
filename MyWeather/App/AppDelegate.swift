@@ -10,6 +10,7 @@ import UIKit
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
+    var coordinator: RootCoordinator?
     
     static func shared() -> AppDelegate {
         UIApplication.shared.delegate as! AppDelegate
@@ -20,8 +21,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window = UIWindow(frame: UIScreen.main.bounds)
         window?.makeKeyAndVisible()
         
-        let mainNavVC = UINavigationController()
-        window?.rootViewController = mainNavVC
+        let mainNavigationVC = UINavigationController()
+        coordinator = RootCoordinator(navigationController: mainNavigationVC)
+        coordinator?.start()
+        window?.rootViewController = mainNavigationVC
         
         return true
     }

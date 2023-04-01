@@ -7,4 +7,5 @@ struct WeatherInfo: Codable {
     var wind: WindStatus
     var rain: RainStatus
     var clouds: CloudsStatus
+    var name: String
 }
