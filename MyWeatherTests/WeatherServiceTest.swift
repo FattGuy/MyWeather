@@ -5,7 +5,6 @@ final class WeatherServiceTest: XCTestCase {
     
     var weatherService: WeatherService!
     var expectation: XCTestExpectation!
-    let apiURL = URL(string: "https://jsonplaceholder.typicode.com/posts/")
     
     override func setUp() {
         super.setUp()
@@ -55,7 +54,8 @@ final class WeatherServiceTest: XCTestCase {
                 },
                 "clouds": {
                     "all": 100
-                }
+                },
+                "name": "Current"
             }
             """
         guard let jsonData = jsonString.data(using: .utf8) else {
@@ -66,7 +66,7 @@ final class WeatherServiceTest: XCTestCase {
         MockURLProtocol.mockResponseData = jsonData
         
         let coordinate2D = CLLocationCoordinate2D(latitude: 44.34, longitude: 10.99)
-        weatherService.getWeatherInfo(with: coordinate2D) { result in
+        weatherService.getWeatherInfo(at: coordinate2D) { result in
             switch result {
             case .success(let weatherInfo):
                 XCTAssertEqual(weatherInfo.coord.lon, 10.99, "Incorrect lat.")
@@ -90,6 +90,7 @@ final class WeatherServiceTest: XCTestCase {
                 XCTAssertEqual(weatherInfo.wind.gust, 1.18, "Incorrect wind gust.")
                 XCTAssertEqual(weatherInfo.rain.oneHour, 3.16, "Incorrect rain oneHour.")
                 XCTAssertEqual(weatherInfo.clouds.all, 100, "Incorrect clouds all.")
+                XCTAssertEqual(weatherInfo.name, "Current", "Incorrect city name.")
             case .failure(let error):
                 XCTFail("Unexpected error: \(error.localizedDescription)")
             }

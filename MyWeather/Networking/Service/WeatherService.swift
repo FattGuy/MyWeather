@@ -9,7 +9,7 @@ class WeatherService {
         self.networkManager = networkManager
     }
     
-    func getWeatherInfo(with currentLocation: CLLocationCoordinate2D, completion: @escaping (Result<WeatherInfo, Error>) -> Void) {
+    func getWeatherInfo(at currentLocation: CLLocationCoordinate2D, completion: @escaping (Result<WeatherInfo, Error>) -> Void) {
         // Create a URLRequest for the API endpoint
         guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather") else {
             completion(.failure(NetworkError.invalidURL))
@@ -42,7 +42,7 @@ class WeatherService {
         }
     }
     
-    func getWeatherInfo(with cityName: String, completion: @escaping (Result<WeatherInfo, Error>) -> Void) {
+    func getWeatherInfo(from cityName: String, completion: @escaping (Result<WeatherInfo, Error>) -> Void) {
         // Create a URLRequest for the API endpoint
         guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather") else {
             completion(.failure(NetworkError.invalidURL))
