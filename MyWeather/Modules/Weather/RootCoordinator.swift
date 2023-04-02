@@ -15,4 +15,11 @@ final class RootCoordinator: Coordinator {
         searchVC.coordinator = self
         navigationController.pushViewController(searchVC, animated: false)
     }
+    
+    func presentDetailFor(searchResult: WeatherInfo) {
+        let weatherDetailVC = WeatherDetailViewController.loadFromNib()
+        weatherDetailVC.setCoordinates(with: searchResult)
+        weatherDetailVC.coordinator = self
+        navigationController.pushViewController(weatherDetailVC, animated: true)
+    }
 }

@@ -13,7 +13,9 @@ class SearchViewController: UIViewController {
         table.delegate = self
         table.dataSource = self
         viewModel.reloadUI = { [weak self] in
-            self?.table.reloadData()
+            DispatchQueue.main.async {
+                self?.table.reloadData()
+            }
         }
     }
     
@@ -28,10 +30,17 @@ class SearchViewController: UIViewController {
 }
 
 extension SearchViewController: UITableViewDelegate, UITableViewDataSource {
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        table.deselectRow(at: indexPath, animated: true)
+        if let result = viewModel.searchResult?[indexPath.row] {
+            coordinator?.presentDetailFor(searchResult: result)
+        }
+    }
+    
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell: SearchCell = table.dequeueReusableCell(forIndexPath: indexPath)
-        if let location = viewModel.searchResult?[indexPath.row] {
-            cell.configure(for: location)
+        if let result = viewModel.searchResult?[indexPath.row] {
+            cell.configure(for: result)
         }
         return cell
     }

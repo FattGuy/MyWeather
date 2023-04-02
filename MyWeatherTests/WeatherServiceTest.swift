@@ -64,7 +64,7 @@ final class WeatherServiceTest: XCTestCase {
         }
         
         MockURLProtocol.mockResponseData = jsonData
-        
+         
         let coordinate2D = CLLocationCoordinate2D(latitude: 44.34, longitude: 10.99)
         weatherService.getWeatherInfo(at: coordinate2D) { result in
             switch result {

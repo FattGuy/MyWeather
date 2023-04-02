@@ -1,15 +1,21 @@
 import Foundation
+import CoreLocation
 
-class SearchViewModel {
-    var searchResult: [WeatherInfo]? {
+protocol WeatherDetailViewModelDelegate {
+    func weatherLoaded()
+}
+
+class WeatherDetailViewModel {
+    
+    var delegate: WeatherDetailViewModelDelegate?
+    var weatherData: WeatherInfo?
+    var coords: Coordinates? {
         didSet {
-            self.reloadUI()
+            self.fetchWeather()
         }
     }
     
-    var reloadUI: () -> Void = {}
-    
-    func searching(text: String) {
+    func fetchWeather() {
         // Make API call
         let configuration = URLSessionConfiguration.default
         configuration.protocolClasses = [MockURLProtocol.self] // Set up mock URL protocol
@@ -24,14 +30,13 @@ class SearchViewModel {
         
         MockURLProtocol.mockResponseData = mockData
         
-        weatherService.getWeatherInfo(from: text) { result in
+        let coord = CLLocationCoordinate2D(latitude: coords?.lat ?? 0.0, longitude: coords?.lon ?? 0.0)
+        weatherService.getWeatherInfo(at: coord) { result in
             switch result {
             case .success(let weatherInfo):
-                // Populate searchResultList variable
-                self.searchResult = [weatherInfo]
+                self.weatherData = weatherInfo
             case .failure(let error):
-                // Handle the error
-                print("Error fetching weather information: \(error.localizedDescription)")
+                print("Unexpected error: \(error.localizedDescription)")
             }
         }
     }
