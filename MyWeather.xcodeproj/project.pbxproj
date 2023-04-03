@@ -50,6 +50,7 @@
 		F2CDAC0429D938B500C7C983 /* WeatherDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0329D938B500C7C983 /* WeatherDetailViewController.swift */; };
 		F2CDAC0629D93D3200C7C983 /* WeatherDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0529D93D3200C7C983 /* WeatherDetailViewModel.swift */; };
 		F2CDAC0B29DA8F9800C7C983 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = F2CDAC0A29DA8F9800C7C983 /* SDWebImage */; };
+		F2CDAC0E29DA97C400C7C983 /* LocationHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0D29DA97C400C7C983 /* LocationHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -99,6 +100,7 @@
 		F2CDAC0129D938A600C7C983 /* WeatherDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WeatherDetailViewController.xib; sourceTree = "<group>"; };
 		F2CDAC0329D938B500C7C983 /* WeatherDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailViewController.swift; sourceTree = "<group>"; };
 		F2CDAC0529D93D3200C7C983 /* WeatherDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailViewModel.swift; sourceTree = "<group>"; };
+		F2CDAC0D29DA97C400C7C983 /* LocationHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,7 +176,8 @@
 		F25647FF29D5E8C4000F6830 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
-				F2CDABFC29D77AE900C7C983 /* Protocol */,
+				F2CDAC0C29DA97AD00C7C983 /* Helpers */,
+				F2CDABFC29D77AE900C7C983 /* Protocols */,
 				F256480029D5EE1F000F6830 /* Extensions */,
 				F2CDABF429D753DE00C7C983 /* ReusableView.swift */,
 			);
@@ -298,12 +301,20 @@
 			path = Cells;
 			sourceTree = "<group>";
 		};
-		F2CDABFC29D77AE900C7C983 /* Protocol */ = {
+		F2CDABFC29D77AE900C7C983 /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
 				F2CDABFD29D77AF400C7C983 /* Coordinator.swift */,
 			);
-			path = Protocol;
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		F2CDAC0C29DA97AD00C7C983 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				F2CDAC0D29DA97C400C7C983 /* LocationHelper.swift */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -418,6 +429,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2CDAC0E29DA97C400C7C983 /* LocationHelper.swift in Sources */,
 				F2A3C14729CE11C300721162 /* WeatherStats.swift in Sources */,
 				F2A3C14B29CE125100721162 /* RainStatus.swift in Sources */,
 				F256480729D5F080000F6830 /* SearchViewModel.swift in Sources */,

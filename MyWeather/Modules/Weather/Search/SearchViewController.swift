@@ -32,21 +32,20 @@ class SearchViewController: UIViewController {
 extension SearchViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         table.deselectRow(at: indexPath, animated: true)
-        if let result = viewModel.searchResult?[indexPath.row] {
-            coordinator?.presentDetailFor(searchResult: result)
-        }
+        let result = viewModel.searchResult[indexPath.row]
+        coordinator?.presentDetailFor(searchResult: result)
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell: SearchCell = table.dequeueReusableCell(forIndexPath: indexPath)
-        if let result = viewModel.searchResult?[indexPath.row] {
-            cell.configure(for: result)
-        }
+        let result = viewModel.searchResult[indexPath.row]
+        cell.configure(for: result)
+        
         return cell
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return viewModel.searchResult?.count ?? 0
+        return viewModel.searchResult.count
     }
 }
 

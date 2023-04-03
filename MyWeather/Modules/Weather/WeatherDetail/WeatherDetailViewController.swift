@@ -18,7 +18,7 @@ class WeatherDetailViewController: UIViewController {
     }
     
     func setCoordinates(with info: WeatherInfo) {
-        self.viewModel.coords = info.coord
+        self.viewModel.weatherData = info
     }
     
     func weatherLoaded() {
