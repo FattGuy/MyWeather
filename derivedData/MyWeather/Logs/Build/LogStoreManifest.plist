@@ -1400,6 +1400,40 @@
 			<key>uniqueIdentifier</key>
 			<string>581F1D02-555E-4157-80EC-757FF2969FFC</string>
 		</dict>
+		<key>5852AC6D-A76A-411D-BEB2-AF8C670260FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5852AC6D-A76A-411D-BEB2-AF8C670260FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702238160.25914502</real>
+			<key>timeStoppedRecording</key>
+			<real>702238163.68917406</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>5852AC6D-A76A-411D-BEB2-AF8C670260FA</string>
+		</dict>
 		<key>5A578AEE-49F5-41EE-83A6-7B19EDC4FE58</key>
 		<dict>
 			<key>className</key>
@@ -2827,6 +2861,40 @@
 			<string>Build MyWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>DE4EBEAC-D0FB-4323-8E8D-2C5BD1CE1C58</string>
+		</dict>
+		<key>E10B774D-F617-4D21-A620-2A602E05AECF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E10B774D-F617-4D21-A620-2A602E05AECF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702238142.00162101</real>
+			<key>timeStoppedRecording</key>
+			<real>702238148.11477399</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>E10B774D-F617-4D21-A620-2A602E05AECF</string>
 		</dict>
 		<key>E3B703F9-0960-4238-B612-16DC5C5B3CE2</key>
 		<dict>

@@ -6,6 +6,49 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>6FAE76AB-4C6D-4D79-8B68-12CBAD109E24</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5852AC6D-A76A-411D-BEB2-AF8C670260FA</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-MyWeather-2023.04.03_13-09-20--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702238160.25892997</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>6FAE76AB-4C6D-4D79-8B68-12CBAD109E24</string>
+		</dict>
 		<key>CF3A64CA-283B-415C-832E-73A5B03733EC</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
