@@ -22,6 +22,10 @@ class SearchViewModel: LocationHelperDelegate {
     }
     
     func searching(text: String) {
+        guard !text.isEmpty else {
+            searchResult.removeAll(where: { $0.name != "Current" })
+            return
+        }
         // Make API call
         let configuration = URLSessionConfiguration.default
         configuration.protocolClasses = [MockURLProtocol.self] // Set up mock URL protocol

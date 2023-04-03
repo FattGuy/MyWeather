@@ -1086,6 +1086,51 @@
 			<key>uniqueIdentifier</key>
 			<string>759D438E-0D9A-4CA7-ACC8-56429AACDE24</string>
 		</dict>
+		<key>77B70CC6-8B7A-4BD1-903D-2CC5528F29F8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>576CB935-8AFA-4AF8-8F24-E63BECA35B93</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MyWeather-2023.04.03_01-41-46--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702196906.95013106</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>77B70CC6-8B7A-4BD1-903D-2CC5528F29F8</string>
+		</dict>
 		<key>7D2460B3-74D6-43F2-97B8-FCE58CB3DF8D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1220,6 +1265,51 @@
 			<string>Run MyWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>86483834-6F2C-496B-86C1-DD6F04FDFCCC</string>
+		</dict>
+		<key>86C87FCD-65F6-43CF-81CE-221D238046A7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0F373E04-8DB4-4D2C-BF55-9A569787EF4C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MyWeather-2023.04.03_01-45-54--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702197154.81679797</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>86C87FCD-65F6-43CF-81CE-221D238046A7</string>
 		</dict>
 		<key>8734556D-B29B-4451-86C8-1468BAAF8386</key>
 		<dict>
