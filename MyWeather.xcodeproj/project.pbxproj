@@ -49,6 +49,7 @@
 		F2CDAC0229D938A600C7C983 /* WeatherDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F2CDAC0129D938A600C7C983 /* WeatherDetailViewController.xib */; };
 		F2CDAC0429D938B500C7C983 /* WeatherDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0329D938B500C7C983 /* WeatherDetailViewController.swift */; };
 		F2CDAC0629D93D3200C7C983 /* WeatherDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0529D93D3200C7C983 /* WeatherDetailViewModel.swift */; };
+		F2CDAC0B29DA8F9800C7C983 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = F2CDAC0A29DA8F9800C7C983 /* SDWebImage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -105,6 +106,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2CDAC0B29DA8F9800C7C983 /* SDWebImage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -320,6 +322,9 @@
 			dependencies = (
 			);
 			name = MyWeather;
+			packageProductDependencies = (
+				F2CDAC0A29DA8F9800C7C983 /* SDWebImage */,
+			);
 			productName = MyWeather;
 			productReference = F2A3C10A29CD5B1800721162 /* MyWeather.app */;
 			productType = "com.apple.product-type.application";
@@ -370,6 +375,9 @@
 				Base,
 			);
 			mainGroup = F2A3C10129CD5B1800721162;
+			packageReferences = (
+				F2CDAC0929DA8F9800C7C983 /* XCRemoteSwiftPackageReference "SDWebImage" */,
+			);
 			productRefGroup = F2A3C10B29CD5B1800721162 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -721,6 +729,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F2CDAC0929DA8F9800C7C983 /* XCRemoteSwiftPackageReference "SDWebImage" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImage.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F2CDAC0A29DA8F9800C7C983 /* SDWebImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F2CDAC0929DA8F9800C7C983 /* XCRemoteSwiftPackageReference "SDWebImage" */;
+			productName = SDWebImage;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = F2A3C10229CD5B1800721162 /* Project object */;
 }

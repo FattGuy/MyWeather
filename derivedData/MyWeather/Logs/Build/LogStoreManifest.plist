@@ -6,6 +6,108 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>020A6EF6-2D12-4505-BF5E-D9F47214D9CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>020A6EF6-2D12-4505-BF5E-D9F47214D9CF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702145617.04627705</real>
+			<key>timeStoppedRecording</key>
+			<real>702145620.50594497</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>020A6EF6-2D12-4505-BF5E-D9F47214D9CF</string>
+		</dict>
+		<key>0218B378-4A0C-4175-AC50-71EB6100C05A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0218B378-4A0C-4175-AC50-71EB6100C05A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189815.42596495</real>
+			<key>timeStoppedRecording</key>
+			<real>702189817.47379696</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>0218B378-4A0C-4175-AC50-71EB6100C05A</string>
+		</dict>
+		<key>042E06E8-19EE-476B-98B7-99B4E400331E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>042E06E8-19EE-476B-98B7-99B4E400331E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702188891.990834</real>
+			<key>timeStoppedRecording</key>
+			<real>702188894.89758897</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>042E06E8-19EE-476B-98B7-99B4E400331E</string>
+		</dict>
 		<key>054C815E-14B3-47A8-B1B0-62816EAF65E9</key>
 		<dict>
 			<key>className</key>
@@ -74,6 +176,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0821CBCF-DEDC-49FF-95B3-34AB983071E9</string>
 		</dict>
+		<key>0D3F7DB7-2282-4D39-BD3C-B85FD27E4BE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D3F7DB7-2282-4D39-BD3C-B85FD27E4BE3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189050.84840202</real>
+			<key>timeStoppedRecording</key>
+			<real>702189052.08414602</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>0D3F7DB7-2282-4D39-BD3C-B85FD27E4BE3</string>
+		</dict>
 		<key>0DF7FF7A-CEDC-4144-BB3A-08295972D389</key>
 		<dict>
 			<key>className</key>
@@ -107,6 +243,278 @@
 			<string>Build MyWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>0DF7FF7A-CEDC-4144-BB3A-08295972D389</string>
+		</dict>
+		<key>146AE54C-D418-497C-B511-C16A2551353B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>146AE54C-D418-497C-B511-C16A2551353B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702188088.34868896</real>
+			<key>timeStoppedRecording</key>
+			<real>702188095.72799802</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>146AE54C-D418-497C-B511-C16A2551353B</string>
+		</dict>
+		<key>22030C53-7968-4A4B-AB9A-2EEE860926A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22030C53-7968-4A4B-AB9A-2EEE860926A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189747.98370194</real>
+			<key>timeStoppedRecording</key>
+			<real>702189750.50530303</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>22030C53-7968-4A4B-AB9A-2EEE860926A5</string>
+		</dict>
+		<key>272D1429-81B4-4374-8B01-E16C235D0A92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>272D1429-81B4-4374-8B01-E16C235D0A92.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702188705.04681301</real>
+			<key>timeStoppedRecording</key>
+			<real>702188706.54692602</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>272D1429-81B4-4374-8B01-E16C235D0A92</string>
+		</dict>
+		<key>273CDB92-DD9B-42B4-B393-AB0214214E5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>273CDB92-DD9B-42B4-B393-AB0214214E5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189550.414235</real>
+			<key>timeStoppedRecording</key>
+			<real>702189553.77940905</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>273CDB92-DD9B-42B4-B393-AB0214214E5D</string>
+		</dict>
+		<key>2940BCA2-1612-45EE-B6FA-75723B0E289D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2940BCA2-1612-45EE-B6FA-75723B0E289D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189090.89708805</real>
+			<key>timeStoppedRecording</key>
+			<real>702189091.52640605</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>2940BCA2-1612-45EE-B6FA-75723B0E289D</string>
+		</dict>
+		<key>2AFEBAD0-D5CD-4261-9BEC-26DD773E0D66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2AFEBAD0-D5CD-4261-9BEC-26DD773E0D66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702145923.20949996</real>
+			<key>timeStoppedRecording</key>
+			<real>702145924.93729901</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>2AFEBAD0-D5CD-4261-9BEC-26DD773E0D66</string>
+		</dict>
+		<key>337C4B8F-AF65-4495-90EF-AA843B810DDF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>337C4B8F-AF65-4495-90EF-AA843B810DDF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702188303.33462</real>
+			<key>timeStoppedRecording</key>
+			<real>702188306.64686406</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>337C4B8F-AF65-4495-90EF-AA843B810DDF</string>
+		</dict>
+		<key>35488DFC-E893-4719-AC9B-EE5B63D34B08</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35488DFC-E893-4719-AC9B-EE5B63D34B08.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702188170.67994595</real>
+			<key>timeStoppedRecording</key>
+			<real>702188172.24850202</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>35488DFC-E893-4719-AC9B-EE5B63D34B08</string>
 		</dict>
 		<key>44237C5A-C15A-466B-88C5-EB36E83C4E09</key>
 		<dict>
@@ -142,6 +550,40 @@
 			<key>uniqueIdentifier</key>
 			<string>44237C5A-C15A-466B-88C5-EB36E83C4E09</string>
 		</dict>
+		<key>49A28007-460F-490E-86B0-D5C77BA33941</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49A28007-460F-490E-86B0-D5C77BA33941.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189111.42609501</real>
+			<key>timeStoppedRecording</key>
+			<real>702189112.02761102</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>49A28007-460F-490E-86B0-D5C77BA33941</string>
+		</dict>
 		<key>49BFB079-FBE3-449E-B124-E5E976961F48</key>
 		<dict>
 			<key>className</key>
@@ -176,6 +618,74 @@
 			<key>uniqueIdentifier</key>
 			<string>49BFB079-FBE3-449E-B124-E5E976961F48</string>
 		</dict>
+		<key>50076257-B942-4150-BF9E-7E4EC674887E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50076257-B942-4150-BF9E-7E4EC674887E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189095.84672999</real>
+			<key>timeStoppedRecording</key>
+			<real>702189096.51325905</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>50076257-B942-4150-BF9E-7E4EC674887E</string>
+		</dict>
+		<key>54BE9461-A31F-410A-8023-C9F3C7F28941</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54BE9461-A31F-410A-8023-C9F3C7F28941.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702145830.038872</real>
+			<key>timeStoppedRecording</key>
+			<real>702145831.00961196</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>54BE9461-A31F-410A-8023-C9F3C7F28941</string>
+		</dict>
 		<key>55EECA46-60AC-4896-A102-6BF1A7506C11</key>
 		<dict>
 			<key>className</key>
@@ -209,6 +719,40 @@
 			<string>Build MyWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>55EECA46-60AC-4896-A102-6BF1A7506C11</string>
+		</dict>
+		<key>581F1D02-555E-4157-80EC-757FF2969FFC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>581F1D02-555E-4157-80EC-757FF2969FFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702188095.83979595</real>
+			<key>timeStoppedRecording</key>
+			<real>702188096.11184299</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>581F1D02-555E-4157-80EC-757FF2969FFC</string>
 		</dict>
 		<key>7838AF09-E2C7-454E-BC1F-5ACA404C0A96</key>
 		<dict>
@@ -278,6 +822,40 @@
 			<key>uniqueIdentifier</key>
 			<string>80EE36E1-0FD4-4E23-8B45-500B1935D784</string>
 		</dict>
+		<key>8C437B4A-F675-429C-AEE9-0FF81008E966</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8C437B4A-F675-429C-AEE9-0FF81008E966.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702188550.38120103</real>
+			<key>timeStoppedRecording</key>
+			<real>702188553.50176704</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>8C437B4A-F675-429C-AEE9-0FF81008E966</string>
+		</dict>
 		<key>9127C774-FEF3-426F-ACF2-F2B6699FBB58</key>
 		<dict>
 			<key>className</key>
@@ -311,6 +889,142 @@
 			<string>Build MyWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>9127C774-FEF3-426F-ACF2-F2B6699FBB58</string>
+		</dict>
+		<key>98777448-890B-4A00-B4C9-1509F9A6BE1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98777448-890B-4A00-B4C9-1509F9A6BE1E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189581.40396798</real>
+			<key>timeStoppedRecording</key>
+			<real>702189583.10003698</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>98777448-890B-4A00-B4C9-1509F9A6BE1E</string>
+		</dict>
+		<key>9AAF7D9C-67DE-4ED5-95EE-525FCB3D6351</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9AAF7D9C-67DE-4ED5-95EE-525FCB3D6351.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189115.27354002</real>
+			<key>timeStoppedRecording</key>
+			<real>702189116.86736202</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>9AAF7D9C-67DE-4ED5-95EE-525FCB3D6351</string>
+		</dict>
+		<key>9C351B58-EBBF-4977-96EC-846F9DD74AFA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C351B58-EBBF-4977-96EC-846F9DD74AFA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702145405.39128399</real>
+			<key>timeStoppedRecording</key>
+			<real>702145406.16265297</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>9C351B58-EBBF-4977-96EC-846F9DD74AFA</string>
+		</dict>
+		<key>A9E85342-324B-4393-955A-53CD16BDED3D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9E85342-324B-4393-955A-53CD16BDED3D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189118.76599801</real>
+			<key>timeStoppedRecording</key>
+			<real>702189118.99758196</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>A9E85342-324B-4393-955A-53CD16BDED3D</string>
 		</dict>
 		<key>ACA3C92E-3A61-4D19-AA0F-A83749001CB4</key>
 		<dict>
@@ -414,6 +1128,74 @@
 			<key>uniqueIdentifier</key>
 			<string>B8910656-7155-4A6C-BADF-F372D026AC50</string>
 		</dict>
+		<key>C4F0AB23-EE5F-45D9-9108-938FE78152E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4F0AB23-EE5F-45D9-9108-938FE78152E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702187603.11956704</real>
+			<key>timeStoppedRecording</key>
+			<real>702187607.69383597</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>C4F0AB23-EE5F-45D9-9108-938FE78152E1</string>
+		</dict>
+		<key>D2AF5492-22F9-4503-9BA1-3AD8878B77BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2AF5492-22F9-4503-9BA1-3AD8878B77BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702145910.40319002</real>
+			<key>timeStoppedRecording</key>
+			<real>702145910.91415405</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>D2AF5492-22F9-4503-9BA1-3AD8878B77BC</string>
+		</dict>
 		<key>DBD608ED-376D-493B-9746-151D04DECAA9</key>
 		<dict>
 			<key>className</key>
@@ -447,6 +1229,40 @@
 			<string>Build MyWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>DBD608ED-376D-493B-9746-151D04DECAA9</string>
+		</dict>
+		<key>DBEB2387-13C2-4982-8617-FB7A3314AE3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBEB2387-13C2-4982-8617-FB7A3314AE3F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702145434.58612204</real>
+			<key>timeStoppedRecording</key>
+			<real>702145438.379246</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>DBEB2387-13C2-4982-8617-FB7A3314AE3F</string>
 		</dict>
 		<key>DE4EBEAC-D0FB-4323-8E8D-2C5BD1CE1C58</key>
 		<dict>
@@ -516,6 +1332,108 @@
 			<key>uniqueIdentifier</key>
 			<string>E3B703F9-0960-4238-B612-16DC5C5B3CE2</string>
 		</dict>
+		<key>E417AA45-2558-4132-AB80-993CF7A956B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E417AA45-2558-4132-AB80-993CF7A956B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189011.02496302</real>
+			<key>timeStoppedRecording</key>
+			<real>702189012.75140905</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>E417AA45-2558-4132-AB80-993CF7A956B7</string>
+		</dict>
+		<key>EE3A74EE-62C6-4564-8552-72C71E33BF26</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE3A74EE-62C6-4564-8552-72C71E33BF26.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189523.95471096</real>
+			<key>timeStoppedRecording</key>
+			<real>702189533.49196005</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>EE3A74EE-62C6-4564-8552-72C71E33BF26</string>
+		</dict>
+		<key>EF08828F-F54E-4E6D-A70A-2006EEDB09D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF08828F-F54E-4E6D-A70A-2006EEDB09D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702145169.03754902</real>
+			<key>timeStoppedRecording</key>
+			<real>702145169.14613605</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>EF08828F-F54E-4E6D-A70A-2006EEDB09D6</string>
+		</dict>
 		<key>F0AD6F7E-9A61-4446-9AF1-72168FB2B333</key>
 		<dict>
 			<key>className</key>
@@ -549,6 +1467,74 @@
 			<string>Build MyWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>F0AD6F7E-9A61-4446-9AF1-72168FB2B333</string>
+		</dict>
+		<key>F1BF3BDE-EA02-47C6-91E3-15A385D1919B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1BF3BDE-EA02-47C6-91E3-15A385D1919B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702188659.76739597</real>
+			<key>timeStoppedRecording</key>
+			<real>702188661.48000896</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>F1BF3BDE-EA02-47C6-91E3-15A385D1919B</string>
+		</dict>
+		<key>F1E0ABE7-9AB0-41D0-B967-3401E87DE189</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1E0ABE7-9AB0-41D0-B967-3401E87DE189.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyWeather</string>
+			<key>timeStartedRecording</key>
+			<real>702189758.51150703</real>
+			<key>timeStoppedRecording</key>
+			<real>702189760.34926403</real>
+			<key>title</key>
+			<string>Build MyWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>F1E0ABE7-9AB0-41D0-B967-3401E87DE189</string>
 		</dict>
 		<key>F77743D7-534A-4118-92B8-C9839EC8815D</key>
 		<dict>

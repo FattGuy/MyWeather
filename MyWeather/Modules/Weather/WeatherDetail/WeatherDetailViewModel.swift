@@ -1,13 +1,8 @@
 import Foundation
 import CoreLocation
 
-protocol WeatherDetailViewModelDelegate {
-    func weatherLoaded()
-}
-
 class WeatherDetailViewModel {
     
-    var delegate: WeatherDetailViewModelDelegate?
     var weatherData: WeatherInfo?
     var coords: Coordinates? {
         didSet {
