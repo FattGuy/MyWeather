@@ -51,6 +51,9 @@
 		F2CDAC0629D93D3200C7C983 /* WeatherDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0529D93D3200C7C983 /* WeatherDetailViewModel.swift */; };
 		F2CDAC0B29DA8F9800C7C983 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = F2CDAC0A29DA8F9800C7C983 /* SDWebImage */; };
 		F2CDAC0E29DA97C400C7C983 /* LocationHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0D29DA97C400C7C983 /* LocationHelper.swift */; };
+		F2CDAC1029DBB3CF00C7C983 /* SearchViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0F29DBB3CF00C7C983 /* SearchViewModelTest.swift */; };
+		F2CDAC1129DBB4B600C7C983 /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F256480629D5F080000F6830 /* SearchViewModel.swift */; };
+		F2CDAC1229DBB62400C7C983 /* LocationHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2CDAC0D29DA97C400C7C983 /* LocationHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -101,6 +104,7 @@
 		F2CDAC0329D938B500C7C983 /* WeatherDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailViewController.swift; sourceTree = "<group>"; };
 		F2CDAC0529D93D3200C7C983 /* WeatherDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailViewModel.swift; sourceTree = "<group>"; };
 		F2CDAC0D29DA97C400C7C983 /* LocationHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationHelper.swift; sourceTree = "<group>"; };
+		F2CDAC0F29DBB3CF00C7C983 /* SearchViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModelTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -277,6 +281,7 @@
 			isa = PBXGroup;
 			children = (
 				F2A3C17729CEB52900721162 /* WeatherServiceTest.swift */,
+				F2CDAC0F29DBB3CF00C7C983 /* SearchViewModelTest.swift */,
 			);
 			path = MyWeatherTests;
 			sourceTree = "<group>";
@@ -465,11 +470,14 @@
 				F2A3C18329CEB5D600721162 /* WeatherService.swift in Sources */,
 				F2A3C18429CEB5D600721162 /* WeatherInfo.swift in Sources */,
 				F2A3C18529CEB5D600721162 /* Coordinates.swift in Sources */,
+				F2CDAC1129DBB4B600C7C983 /* SearchViewModel.swift in Sources */,
 				F2A3C18629CEB5D600721162 /* WeatherType.swift in Sources */,
+				F2CDAC1029DBB3CF00C7C983 /* SearchViewModelTest.swift in Sources */,
 				F2A3C18729CEB5D600721162 /* WeatherStats.swift in Sources */,
 				F2A3C18829CEB5D600721162 /* WindStatus.swift in Sources */,
 				F2A3C18929CEB5D600721162 /* RainStatus.swift in Sources */,
 				F2A3C18A29CEB5D600721162 /* CloudsStatus.swift in Sources */,
+				F2CDAC1229DBB62400C7C983 /* LocationHelper.swift in Sources */,
 				F2A3C18229CEB5B700721162 /* WeatherServiceTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
