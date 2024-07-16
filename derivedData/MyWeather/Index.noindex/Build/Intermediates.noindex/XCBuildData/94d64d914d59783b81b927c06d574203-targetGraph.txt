@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-MyWeather in MyWeather, no dependencies
-MyWeather in MyWeather, no dependencies
